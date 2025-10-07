@@ -143,21 +143,3 @@
 * **Extra challenge:** Interactive zooming, coloring by iteration counts, or animate parameter changes.
 
 ---
-
-### **Optional Stretch Goal: Fourier Series Animation**
-
-* **Goal:** Show how Fourier series approximate a periodic function.
-* **NumPy skills:** Compute Fourier coefficients, sum series terms.
-* **Matplotlib skills:** Animate wave approximation, plot frequency spectrum.
-* **Extra challenge:** Make an interactive slider to change the number of terms.
-
----
-
-✅ **Progression Strategy:**
-
-1. Start simple: Dice & Random Walk → Learn basic NumPy and plotting.
-2. Move to simulations: Stock & Heatmaps → Learn statistics and visualization skills.
-3. Advanced visualization: Image processing & Fractals → Combine computation and creative plots.
-4. Optional animations & interactivity → Take your skills to a professional level.
-
----
